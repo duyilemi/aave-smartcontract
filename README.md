@@ -2,7 +2,7 @@
 
 Approve our ETH to be swapped for WETH
 
-Swap an amount of ETH for WETH
+Swap an amount of ETH for WETH on AAVE
 
 We deposit the WETH as collateral
 
