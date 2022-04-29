@@ -1,6 +1,6 @@
 # aave-smartcontract
 
-A smart-contract designed to interact with a decentralized lending protocol-AAVE
+A smart-contract designed to interact with a decentralized lending protocol-AAVE.
 
 # Overview
 
@@ -10,7 +10,7 @@ Swap an amount of ETH for WETH on AAVE
 
 We deposit the WETH as collateral
 
-We use that collateral to borrow DAI
+We use that collateral to borrow DAI or other assets
 
 Then, we pay it back!
 
